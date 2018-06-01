@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\通联\通联支付网关商户接入规范_V4.1.5\通联支付网关商户接入规范_V4.1.5\asp版 demo示例(20131212)\无需加载通联dll文件签名验签\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrator\Desktop\通联\通联支付网关商户接入规范_V4.1.5\通联支付网关商户接入规范_V4.1.5\asp版 demo示例(20131212)\无需加载通联dll文件签名验签\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\通联\通联支付网关商户接入规范_V4.1.5\通联支付网关商户接入规范_V4.1.5\asp版 demo示例(20131212)\无需加载通联dll文件签名验签\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\通联\通联支付网关商户接入规范_V4.1.5\通联支付网关商户接入规范_V4.1.5\asp版 demo示例(20131212)\无需加载通联dll文件签名验签\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\通联\通联支付网关商户接入规范_V4.1.5\通联支付网关商户接入规范_V4.1.5\asp版 demo示例(20131212)\无需加载通联dll文件签名验签\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CshopWorkspace\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\CshopWorkspace\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CshopWorkspace\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\CshopWorkspace\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CshopWorkspace\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CshopWorkspace\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CshopWorkspace\ConsoleApplication1\bin\Debug\IKVM.Runtime.dll
+D:\CshopWorkspace\ConsoleApplication1\bin\Debug\IKVM.OpenJDK.Security.dll
