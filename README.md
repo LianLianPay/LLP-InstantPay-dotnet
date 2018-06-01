@@ -84,3 +84,7 @@ Console.WriteLine(content);
 //对连连响应报文内容需要用连连公钥验签
 Console.ReadKey();
 ```
+
+## .Net加密注意事项
+
+由于.Net的加密方法是由Java的实时付款SDK通过[IKVM](https://www.ikvm.net/)转化而来，故在使用.Net的加密方法(路径为```ConsoleApplication1\bin\Release```下的```lianlianpay-security-1.0.0.dll```)时， 需要在项目中引入IKVM技术。
