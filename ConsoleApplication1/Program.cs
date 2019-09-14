@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 
@@ -68,11 +68,9 @@ namespace ConsoleApplication1
             http.Method = "POST";
             Console.WriteLine(reqJson);
 
-            var pay = @"{""pay_load"":""" + json + @""",""oid_partner"":""201609130000219023""}";
-            
-          
-
-            byte[] bytes = Encoding.UTF8.GetBytes(pay);
+           
+			var pay = ($"{{\"pay_load\":\"{json}\",\"oid_partner\":\"{PartnerConfig.OID_PARTNER}\"}}").Replace("\r\n", "\\r\\n");
+			byte[] bytes = Encoding.GetEncoding("ISO-8859-1").GetBytes(pay);
 
             Stream newStream = http.GetRequestStream();
             newStream.Write(bytes, 0, bytes.Length);
